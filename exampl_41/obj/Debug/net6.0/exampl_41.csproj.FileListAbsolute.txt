@@ -1,0 +1,15 @@
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\bin\Debug\net6.0\exampl_41.exe
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\bin\Debug\net6.0\exampl_41.deps.json
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\bin\Debug\net6.0\exampl_41.runtimeconfig.json
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\bin\Debug\net6.0\exampl_41.dll
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\bin\Debug\net6.0\exampl_41.pdb
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\obj\Debug\net6.0\exampl_41.csproj.AssemblyReference.cache
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\obj\Debug\net6.0\exampl_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\obj\Debug\net6.0\exampl_41.AssemblyInfoInputs.cache
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\obj\Debug\net6.0\exampl_41.AssemblyInfo.cs
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\obj\Debug\net6.0\exampl_41.csproj.CoreCompileInputs.cache
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\obj\Debug\net6.0\exampl_41.dll
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\obj\Debug\net6.0\refint\exampl_41.dll
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\obj\Debug\net6.0\exampl_41.pdb
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\obj\Debug\net6.0\exampl_41.genruntimeconfig.cache
+C:\Users\IKAR\YandexDisk\GB\C_Sharp_Education\Seminar6\DZ\exampl_41\obj\Debug\net6.0\ref\exampl_41.dll
